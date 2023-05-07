@@ -1,0 +1,12 @@
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\bin\Debug\justLogin.exe.config
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\bin\Debug\justLogin.exe
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\bin\Debug\justLogin.pdb
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\obj\Debug\justLogin.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\obj\Debug\justLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\obj\Debug\justLogin.Login.resources
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\obj\Debug\justLogin.Properties.Resources.resources
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\obj\Debug\justLogin.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\obj\Debug\justLogin.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\obj\Debug\justLogin.exe
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\obj\Debug\justLogin.pdb
+C:\Users\Hamza\Desktop\.NET\justLogin\justLogin\obj\Debug\justLogin.menu.resources
